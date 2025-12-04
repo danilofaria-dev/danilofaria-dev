@@ -25,6 +25,20 @@ Esse espaço é onde irei postar meus projetos conforme evoluo nos estudos.
 
 ###
 
+<br>
+<br>
+<br>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilofaria-dev&theme=dark)
+<br>
+<br>
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danilofaria-dev&layout=compact&theme=dark)
+
+
+
+
+
 
 
 ##  Agora focado em:
