@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Danilo
 
-Sou programador **front-end** atualmente criando meus primeiros projetos com calma, consistência e curiosidade.
+<span style=font-size:50;>Sou programador **front-end** atualmente criando meus primeiros projetos com calma, consistência e curiosidade!
+Esse espaço é onde irei postar meus projetos conforme evoluo nos estudos.
+</span>
 
 <br>
 <br>
