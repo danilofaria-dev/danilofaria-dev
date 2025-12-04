@@ -5,7 +5,7 @@ Sou programador **front-end** atualmente criando meus primeiros projetos com cal
 <br>
 <br>
 
-## Tecnologias que uso/estudo
+## Tecnologias que uso/estudo:
 
 ###
 
@@ -25,7 +25,7 @@ Sou programador **front-end** atualmente criando meus primeiros projetos com cal
 
 
 
-##  Agora focado em
+##  Agora focado em:
 
 * Melhorar responsividade
 * Praticar mais CSS
@@ -34,7 +34,7 @@ Sou programador **front-end** atualmente criando meus primeiros projetos com cal
 
 
 
-## 📫 Onde me encontrar
+## Onde me encontrar:
 
 * E-mail: danilofaria.dev@gmail.com
 
