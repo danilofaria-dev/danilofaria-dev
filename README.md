@@ -1,10 +1,17 @@
-# 👋 Olá, eu sou o Danilo
+<!-- ANIMAÇÃO NO NOME EM VERDE #2e9a40 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2E9A40&size=32&center=true&vCenter=true&width=600&lines=Danilo+Faria" />
+</p>
 
-Sou programador **front-end** atualmente criando meus primeiros projetos com calma, consistência e curiosidade!
-<br>
-Esse espaço é onde irei postar meus projetos conforme evoluo nos estudos.
+<!-- TEXTO DE APRESENTAÇÃO -->
+<p align="center">
+  Front-End Developer em evolução — Curioso, dedicado e focado em criar interfaces cada vez melhores.<br><br>
+  Um commit por vez, construindo meu caminho no Front-End.
+</p>
 
-<br>
+
+
+
 <br>
 
 ## Tecnologias que uso/estudo:
@@ -30,9 +37,10 @@ Esse espaço é onde irei postar meus projetos conforme evoluo nos estudos.
 <br>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilofaria-dev&theme=dark)
+<p align="left"> <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=danilofaria-dev&show_icons=true&theme=dark&hide_border=true&rank_icon=github"/>
 <br>
 <br>
+  
 ![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danilofaria-dev&layout=compact&theme=dark&hide_border=true)
 
 
@@ -49,6 +57,8 @@ Esse espaço é onde irei postar meus projetos conforme evoluo nos estudos.
 
 <br>
 <br>
+
+
 
 
 ## Onde me encontrar:
